@@ -45,7 +45,7 @@ Below is an overview of the queries executed for cleaning the dataset:
 
 # Main Insights
 
-# Download Dataset
+# Resources
 
 You can download the interactive dashboard by clicking the link below:
 
