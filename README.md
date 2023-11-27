@@ -19,3 +19,27 @@ Below is an overview of the queries executed for cleaning the dataset:
 - **Change Y and N to Yes and No in "Sold as Vacant" Field:** Created a new column with standardized values using a CASE statement. Updated the original column with the standardized values.
 - **Remove Duplicates:** Used a Common Table Expression (CTE) with ROW_NUMBER() to identify and remove duplicates.
 - **Delete Unused Columns:** Performed an ALTER TABLE statement to drop unnecessary columns.
+
+  After all these transformations, the dataset integrated into PowerBI had the following columns:
+
+  - **UniqueID:** Unique identifier for each record.
+- **ParcelID:** Parcel identifier.
+- **LandUse:** Classification of land use.
+- **SalePrice:** Price at which the property was sold.
+- **LegalReference:** Legal reference for the property.
+- **SoldAsVacant:** Indicates whether the property was sold as vacant.
+- **OwnerName:** Name of the property owner.
+- **Acreage:** Size of the property in acres.
+- **LandValue:** Value of the land.
+- **BuildingValue:** Value of the building.
+- **TotalValue:** Total assessed value of the property.
+- **YearBuilt:** Year the property was built.
+- **Bedrooms:** Number of bedrooms in the property.
+- **FullBath:** Number of full bathrooms.
+- **HalfBath:** Number of half bathrooms.
+- **PropertySplitAddress:** Address of the property.
+- **PropertySplitCity:** City of the property.
+- **OwnerSplitAddress:** Address of the property owner.
+- **OwnerSplitCity:** City of the property owner.
+- **OwnerSplitState:** State of the property owner.
+
