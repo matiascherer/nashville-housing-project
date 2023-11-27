@@ -7,7 +7,7 @@ This project contains a comprehensive analysis of the Nashville real estate mark
 
 **Data source:** https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data/
 
-**Data range:** Jan/2020 - Jul/2023
+**Data range:** 1899 - 2017
 
 # Data Cleaning
 
