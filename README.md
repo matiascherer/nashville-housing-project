@@ -43,3 +43,5 @@ Below is an overview of the queries executed for cleaning the dataset:
 - **OwnerSplitCity:** City of the property owner.
 - **OwnerSplitState:** State of the property owner.
 
+# Main Insights
+
