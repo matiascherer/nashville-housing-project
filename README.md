@@ -14,13 +14,8 @@ This project contains a comprehensive analysis of the Nashville real estate mark
 Below is an overview of the queries executed for cleaning the dataset:
 
 - **Standardize Date Format:** Used a CONVERT function to display SaleDate in a consistent date format. Performed an UPDATE statement to apply the standardized date format.
-  
-- **Populate Property Address Data:** Used a JOIN statement to identify missing values in PropertyAddress. Applied an UPDATE statement to fill missing values with corresponding addresses.
-  
+- **Populate Property Address Data:** Used a JOIN statement to identify missing values in PropertyAddress. Applied an UPDATE statement to fill missing values with corresponding addresses. 
 - **Breaking Out Address into Individual Columns (Address, City, State):** Used string manipulation functions (SUBSTRING, CHARINDEX, LEN) to separate address and city. Added new columns (PropertySplitAddress and PropertySplitCity) to the table. Updated these new columns with the split values. Used string manipulation and PARSENAME functions to extract the state. Added new columns (OwnerSplitAddress, OwnerSplitCity, OwnerSplitState) to the table. Updated these new columns with the split values.
-  
--- **Change Y and N to Yes and No in "Sold as Vacant" Field:** Created a new column with standardized values using a CASE statement. Updated the original column with the standardized values.
-
--- **Remove Duplicates:** Used a Common Table Expression (CTE) with ROW_NUMBER() to identify and remove duplicates.
-
--- **Delete Unused Columns:** Performed an ALTER TABLE statement to drop unnecessary columns.
+- **Change Y and N to Yes and No in "Sold as Vacant" Field:** Created a new column with standardized values using a CASE statement. Updated the original column with the standardized values.
+- **Remove Duplicates:** Used a Common Table Expression (CTE) with ROW_NUMBER() to identify and remove duplicates.
+- **Delete Unused Columns:** Performed an ALTER TABLE statement to drop unnecessary columns.
