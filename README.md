@@ -43,7 +43,13 @@ Below is an overview of the queries executed for cleaning the dataset:
 - **OwnerSplitCity:** City of the property owner.
 - **OwnerSplitState:** State of the property owner.
 
+# Descriptive Analysis
+
+![image](https://github.com/matiascherer/nashville-housing-project/assets/63814565/0e3c8b1a-b9dd-4ed1-b886-cf260e549d3a)
+
+
 # Main Insights
+
 
 # Resources
 
