@@ -22,7 +22,7 @@ Below is an overview of the queries executed for cleaning the dataset:
 
   After all these transformations, the dataset integrated into PowerBI had the following columns:
 
-  - **UniqueID:** Unique identifier for each record.
+- **UniqueID:** Unique identifier for each record.
 - **ParcelID:** Parcel identifier.
 - **LandUse:** Classification of land use.
 - **SalePrice:** Price at which the property was sold.
