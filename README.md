@@ -49,4 +49,4 @@ Below is an overview of the queries executed for cleaning the dataset:
 
 You can download the interactive dashboard by clicking the link below:
 
-[Download PowerBI dashboard](link_para_seu_arquivo)
+[Download PowerBI dashboard](https://github.com/matiascherer/nashville-housing-project/blob/main/NashVilleHousing.pbix)
