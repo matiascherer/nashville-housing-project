@@ -1,5 +1,5 @@
 # nashville-housing-project
-This project contains a comprehensive analysis of the Nashville real estate market utilizing SQL and PowerBI. The project encompasses a significant data cleaning phase, ensuring high data quality. Leveraging Power BI, the analysis dives into key trends and insights shaping the real estate landscape in the Nashville region.
+This project contains a comprehensive analysis of the Nashville real estate market utilizing SQL and PowerBI. The project encompasses a significant data cleaning phase, ensuring high data quality. Leveraging PowerBI, the analysis dives into key trends and insights shaping the real estate landscape in the Nashville region.
 
 **Skills used:** 
 - **SQL:** CTEs, Update, Convert, Self Joins, Substring, Charindex, Len, Alter Table, Substring, ParseName, Replace, Delete, Drop Column.
@@ -21,7 +21,7 @@ Below is an overview of the queries executed for cleaning the dataset:
 - **Delete Unused Columns:** Performed an ALTER TABLE statement to drop unnecessary columns.
 
 
-After all these transformations, the dataset integrated into PowerBI had the following columns:
+After all these transformations, the dataset **integrated into PowerBI** had the following columns:
 
 - **UniqueID:** Unique identifier for each record.
 - **ParcelID:** Parcel identifier.
