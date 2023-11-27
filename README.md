@@ -20,7 +20,8 @@ Below is an overview of the queries executed for cleaning the dataset:
 - **Remove Duplicates:** Used a Common Table Expression (CTE) with ROW_NUMBER() to identify and remove duplicates.
 - **Delete Unused Columns:** Performed an ALTER TABLE statement to drop unnecessary columns.
 
-  After all these transformations, the dataset integrated into PowerBI had the following columns:
+
+After all these transformations, the dataset integrated into PowerBI had the following columns:
 
 - **UniqueID:** Unique identifier for each record.
 - **ParcelID:** Parcel identifier.
