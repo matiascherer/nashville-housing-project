@@ -46,7 +46,8 @@ After all these transformations, the dataset **integrated into PowerBI** had the
 
 # Descriptive Analysis
 
-![image](https://github.com/matiascherer/nashville-housing-project/assets/63814565/0e3c8b1a-b9dd-4ed1-b886-cf260e549d3a)
+![image](https://github.com/matiascherer/nashville-housing-project/assets/63814565/880f0dab-8853-4aab-a6d4-bbf5ba86621f)
+
 
 
 # Main Insights
