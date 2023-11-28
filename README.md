@@ -51,7 +51,7 @@ After all these transformations, the dataset **integrated into PowerBI** had 56,
 
 # Main Insights
 
-- 
+- **Land Use Analysis:**
 
 # Resources
 
