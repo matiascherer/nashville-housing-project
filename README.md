@@ -21,7 +21,7 @@ Below is an overview of the queries executed for cleaning the dataset:
 - **Delete Unused Columns:** Performed an ALTER TABLE statement to drop unnecessary columns.
 
 
-After all these transformations, the dataset **integrated into PowerBI** had the following columns:
+After all these transformations, the dataset **integrated into PowerBI** had 56,373 rows and 20 columns. The meaning of every variable is as below:
 
 - **UniqueID:** Unique identifier for each record.
 - **ParcelID:** Parcel identifier.
@@ -49,9 +49,9 @@ After all these transformations, the dataset **integrated into PowerBI** had the
 ![image](https://github.com/matiascherer/nashville-housing-project/assets/63814565/880f0dab-8853-4aab-a6d4-bbf5ba86621f)
 
 
-
 # Main Insights
 
+- 
 
 # Resources
 
