@@ -52,6 +52,14 @@ After all these transformations, the dataset **integrated into PowerBI** had 56,
 # Main Insights
 
 - **Land Use Analysis:**
+  - Zero Lote Line (residential real estate in which the structure comes up to, or very near to, the edge of the property line) tend to have the highest average land value, with an average of $17 per square foot.
+  - Duplex follow closely, with an average land value of $16 per square foot.
+  - Single Family have a slightly lower average land value at $14 per square foot.
+ 
+ - **Land Use Analysis:**
+  - Zero Lote Line (residential real estate in which the structure comes up to, or very near to, the edge of the property line) tend to have the highest average land value, with an average of $17 per square foot.
+  - Duplex follow closely, with an average land value of $16 per square foot.
+  - Single Family have a slightly lower average land value at $14 per square foot.
 
 # Resources
 
