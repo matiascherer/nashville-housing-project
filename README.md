@@ -63,12 +63,11 @@ After all these transformations, the dataset **integrated into PowerBI** had 56,
   - For each additional bedroom, the average selling price exhibits exponential growth. Specifically, the pattern is as follows: between 1 and 2 bedrooms, there is an increase of $8,000; between 2 and 3 bedrooms, the increment rises to $50,000; from 3 to 4 bedrooms, there is a substantial surge of $170,000; and between 4 and 5 bedrooms, the escalation reaches $734,000. Beyond 5 bedrooms, the dataset contains fewer records, posing challenges for comprehensive analysis, yet discernible fluctuations in pricing trends begin to emerge.
 
   ![image](https://github.com/matiascherer/nashville-housing-project/assets/63814565/a3219769-38f3-444a-be5f-b8815b416d6c) 
-  
+
   - The presence of additional half bathrooms positively correlates with higher sale prices, with an average increase of $486k (98%) per bathroom.
 
   ![image](https://github.com/matiascherer/nashville-housing-project/assets/63814565/242bbd2b-1f26-4d21-86cc-799450cd23c3)
 
-  
   - Full bathrooms have a smaller impact on sale prices, contributing an average increase of $205k (28%) per bathroom.
 
   ![image](https://github.com/matiascherer/nashville-housing-project/assets/63814565/450280b1-7aa7-4883-b572-f4035e2b7b19)
