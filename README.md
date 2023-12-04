@@ -85,7 +85,7 @@ After all these transformations, the dataset **integrated into PowerBI** had 56,
 
 # Conclusion
 
-- The analysis unveils a connected narrative in property dynamics. Zero Lot Line properties lead in land value, closely trailed by Duplexes, and Single Family homes. This land use-value relationship suggests a significant impact on property values. Examining bedrooms and bathrooms, sale prices exhibit exponential growth with each added bedroom. Extra half bathrooms strongly correlate with higher prices. Temporally, property prices decline till 1990, reversing as single-family constructions rise, and higher-value land uses gain prominence.
+The analysis unveils a connected narrative in property dynamics. Zero Lot Line properties lead in land value, closely trailed by Duplexes, and Single Family homes. This land use-value relationship suggests a significant impact on property values. Examining bedrooms and bathrooms, sale prices exhibit exponential growth with each added bedroom. Extra half bathrooms strongly correlate with higher prices. Temporally, property prices decline till 1990, reversing as single-family constructions rise, and higher-value land uses gain prominence.
 
 
 # Resources
