@@ -78,9 +78,9 @@ After all these transformations, the dataset **integrated into PowerBI** had 56,
   ![image](https://github.com/matiascherer/nashville-housing-project/assets/63814565/0f44c45c-713c-460a-918c-6409bd47485a)
 
 
-  - 
+  - One of the reasons explaining the phenomenon is that, between 1900 and 1990, the number of single-family constructions, which typically had a lower price point, was increasing. However, from 1990 onward, properties with higher-value land uses started to gain prominence
 
-  ![image](https://github.com/matiascherer/nashville-housing-project/assets/63814565/242bbd2b-1f26-4d21-86cc-799450cd23c3)
+  ![image](https://github.com/matiascherer/nashville-housing-project/assets/63814565/108145f8-361b-4f62-94eb-35712f7c5b78)
 
   - 
 
